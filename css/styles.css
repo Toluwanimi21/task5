@@ -277,8 +277,12 @@ a:hover {
 	color: #4555d2;
 }
 
+.navbar {
+	color:#191e47;
+	text-decoration: none;
+}
 
-/*     Navigation     */
+/*     Navigation     
 .navbar {
 	background-color: #ffffff;
 	font-weight: 600;
@@ -345,7 +349,7 @@ a:hover {
 .navbar .nav-item .nav-link.active {
 	color: #4555d2;
 }
-
+*/
 
 /*    Header     */
 .header {
