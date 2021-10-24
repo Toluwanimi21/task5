@@ -277,11 +277,13 @@ a:hover {
 	color: #4555d2;
 }
 
-.navbar {
-	color:#191e47;
+.nav-item a {
 	text-decoration: none;
 }
 
+.navbar-brand a{
+	text-decoration: none;
+}
 /*     Navigation     
 .navbar {
 	background-color: #ffffff;
